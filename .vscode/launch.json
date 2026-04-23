@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Sharad Chandra Reddy/Desktop/DSA",
-      "program": "c:/Users/Sharad Chandra Reddy/Desktop/DSA/build/Debug/outDebug",
+      "cwd": "c:/Users/Sharad Chandra Reddy/Desktop/DSA/StriverA2Z/Patterns_02",
+      "program": "c:/Users/Sharad Chandra Reddy/Desktop/DSA/StriverA2Z/Patterns_02/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
